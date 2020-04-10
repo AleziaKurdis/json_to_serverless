@@ -1,0 +1,83 @@
+/*
+//  genetrator.css
+//
+//  Created by Alezia Kurdis on 10 Apr 2020
+//  Copyright 2020 Project Athena contributors.
+//
+//  Distributed under the Apache License, Version 2.0.
+//  See the accompanying file LICENSE or http://www.apache.org/licenses/LICENSE-2.0.html
+*/
+#drop_zone {
+    border: 2px dashed #bbb;
+    border-radius: 5px;
+    padding: 25px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 24px;  
+    color: #bbb;
+    width: auto;
+}
+
+div.urlbox {
+    background-color: #ffffaa;
+    border: 1px solid #bbb;
+    width: 550px;
+    word-wrap: break-word;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 12px;  
+    color: #0000ff;
+    padding: 2px;
+}
+
+div.header {
+    background-color: #000000;
+    width:100%;
+    padding: 20px;
+}
+
+h1{
+	font-family: arial,sans-serif, helvetica;  
+	font-weight: 700; 
+	font-style:none;
+	font-size: 22px; 
+	color:#ffffff;
+	}
+
+h2{
+	font-family: arial,sans-serif, helvetica;  
+	font-weight: 700; 
+	font-style:none;
+	font-size: 16px; 
+	color:#000;
+}
+
+body{
+	background-color: #3d508a;
+	font-family: arial,sans-serif, helvetica;  
+	font-weight: 600; 
+	text-decoration: none; 
+	font-size: 12px; 
+	color:#FFFFFF;
+	margin: 0px;
+	border-collapse: collapse;
+}
+
+font.instructions {
+    font-family: arial,sans-serif, helvetica;  
+	font-weight: 500; 
+	text-decoration: none; 
+	font-size: 10px; 
+	color:#EEEEEE;
+}
+
+td.SubSection {
+    background-color: #e0dedc;
+	font-family: arial,sans-serif, helvetica;  
+	font-weight: 600; 
+	text-decoration: none; 
+	font-size: 12px; 
+	color:#000000;
+    border-collapse: collapse;
+}
