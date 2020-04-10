@@ -41,7 +41,12 @@
         <div class='header'><img src='vircadia-logo-tm.png' style='width:300px;'></div>
         
         <table><tr><td><!-- MAIN FRAME-->
-        <div style='width:100%; text-align: center;'><h1>"Entities JSON" to "Serverless Domain" Generator</h1></div><br>
+        <div style='width:100%; text-align:center;'><h1>"Entities JSON" to "Serverless Domain" Generator</h1></div><br>
+        <div style='width:650px; text-align:left; padding: 0px 40px 0px;'>With this tool, you can generate a link to a serverless domain environment to visualize any entities previously extracted as a .json file.
+        This allows you to present the entities in a formatted/branded environment, with optimal ambient lighting. 
+        The user can then navigate directly using a simple url to preview the content witout any impact on his persistent server. He can also edit, examine the setup, decide to extract only some part 
+        and make modifications that he can extract.</div>
+        <br><hr>
         <form name='generator' method='post' action='genserverless.php'>
         <table>
             <tr>
