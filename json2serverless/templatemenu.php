@@ -11,8 +11,8 @@
 */
 
 $templateOptions = "
-    <option value = 'MyUrl-1'>Vircadia - Daylight (less than 10m objects)</option>
-    <option value = 'MyUrl-2'>Vircadia - Night (less than 10m objects)</option>
+    <option value = 'https://aleziakurdis.github.io/json_to_serverless/templates/test_template.json'>Vircadia - Daylight (less than 10m objects)</option>
+    <!-- option value = 'MyUrl-2'>Vircadia - Night (less than 10m objects)</option -->
                     ";
                   
 
