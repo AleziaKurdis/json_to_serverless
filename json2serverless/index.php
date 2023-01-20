@@ -6,7 +6,7 @@
         //  index.php
         //
         //  Created by Alezia Kurdis on 10 Apr 2020
-        //  Copyright 2020 Project Athena contributors.
+        //  Copyright 2020 Alezia Kurdis.
         //
         //  Distributed under the Apache License, Version 2.0.
         //  See the accompanying file LICENSE or http://www.apache.org/licenses/LICENSE-2.0.html
@@ -38,7 +38,7 @@
         </script>
     </head>    
     <body>
-        <div class='header'><img src='vircadia-logo-tm.png' style='width:300px;'></div>
+        <div class='header'><img src='overte_logo.png' style='width:300px;'></div>
         
         <table><tr><td><!-- MAIN FRAME-->
         <div style='width:100%; text-align:center;'><h1>"Entities JSON" to "Serverless Domain" Generator</h1></div><br>

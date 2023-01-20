@@ -3,7 +3,7 @@
 //  genserverless.php
 //
 //  Created by Alezia Kurdis on 10 Apr 2020
-//  Copyright 2020 Project Athena contributors.
+//  Copyright 2020 Alezia Kurdis.
 //
 //  Distributed under the Apache License, Version 2.0.
 //  See the accompanying file LICENSE or http://www.apache.org/licenses/LICENSE-2.0.html
