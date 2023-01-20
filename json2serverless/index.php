@@ -48,10 +48,11 @@
         and make modifications that he can extract.</div>
         <br><hr>
         <form name='generator' method='post' action='genserverless.php'>
-        <table>
+        <table style="width:100%;">
             <tr>
+                <td style="width:15%;">&nbsp;</td>
                 <td style="text-align:left">
-                    Serverless Domain Template URL:
+                    Serverless Domain Template URL (Optional):
                 </td> 
                 <td style="text-align:right"><select name='prefabTemplates'id='prefabTemplates' onchange='document.generator.templateUrl.value = this.value'>
                         <option value = ''>- Preset Templates -</option>
@@ -63,6 +64,7 @@
                 </td>
             </tr>
             <tr>
+                <td style="width:15%;">&nbsp;</td>
                 <td colspan = '2'>
                     <input type='text' size = '95' name='templateUrl' id='templateUrl'>
                 </td>
